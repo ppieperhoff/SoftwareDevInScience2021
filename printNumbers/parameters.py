@@ -71,3 +71,10 @@ class Parameters(object):
         print('Function Code: ', self.functionIndex)
         print('Operand value: ' + str(self.operand))
         print('')
+
+    def Dummy(self):
+        """
+        Changes which I did in "peters_branch"
+        """
+        print("Some changes")
+        return
